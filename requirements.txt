@@ -1,1 +1,6 @@
  # Dépendances Python
+soundfile
+pydub
+numpy
+ffmpeg
+kokoro
