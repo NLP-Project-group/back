@@ -1,1 +1,0 @@
-# Traduit chaque segment
