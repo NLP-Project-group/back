@@ -79,6 +79,7 @@ def run_kokoro_pipeline():
     replace_audio_in_video()
     cleanup_temp_files()
     print("Pipeline terminé.")
+    
 
 # Pour exécution directe
 if __name__ == "__main__":
