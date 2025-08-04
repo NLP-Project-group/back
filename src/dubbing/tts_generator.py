@@ -1,1 +1,0 @@
-# TTS Google pour chaque segment

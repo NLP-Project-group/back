@@ -124,7 +124,3 @@ def main():
         print(f" {len([seg for seg in translated_segments if seg['translation']])} traductions réussies")
     except Exception as e:
         pass
-
-
-#if __name__ == "__main__":
- #   main()
